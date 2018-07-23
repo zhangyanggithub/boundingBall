@@ -4,6 +4,8 @@ html, body {
     color: rebeccapurple;
     background-attachment: fixed;
 }
+/*这是新的修改*/
+/*这是在nzy上的修改*/
 html {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     height: 100%;
@@ -31,3 +33,5 @@ p {
     right: 5px;
     color: #aaa;
 }
+:wq
+
